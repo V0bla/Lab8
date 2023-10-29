@@ -18,8 +18,8 @@
 ## Результат:
 Выполнены все задания по настройке и созданию сервисов. Подготовлен vagrantfile c результатами выполнения д.з.:
 
-| <!-- -->      | <!-- -->        | <!-- -->      |
-|:-------------:|:---------------:|:-------------:|
+| <!-- -->      | <!-- -->        | 
+|:-------------:|:---------------:|
 |Сервис watchlog |![./result/lab8_watchlog_result_2.png](./result/lab8_watchlog_result_2.png)|
 |Сервис spawn-fcgi |![./result/lab8_fcgi_result.png](./result/lab8_fcgi_result.png)|
 |Сервис httpd |![./result/lab8-httpd.png](./result/lab8-httpd.png)|
